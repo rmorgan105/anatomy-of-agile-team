@@ -20,7 +20,7 @@
 @title[Team Composition]
 
 @snap[west span-80]
-@ul[square-bullets](false)
+@ul[square-bullets]
 - development team
 - business person
 @ulend
@@ -31,7 +31,7 @@
 @title[Team Capabilities]
 
 @snap[west span-80]
-@ul[square-bullets](false)
+@ul[square-bullets]
 - development
 - testing
 - deployment
