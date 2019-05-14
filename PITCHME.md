@@ -2,6 +2,7 @@
 
 
 ---
+## Team Qualities
 @title[Team Qualities]
 
 @snap[west span-80]
@@ -15,45 +16,56 @@
 @snapend
 
 ---
+## Team Composition
 @title[Team Composition]
 
 @snap[west span-80]
+@ul[square-bullets](false)
 - development team
 - business person
+@ulend
 @snapend
 
 ---
+## Team Composition
 @title[Team Capabilities]
 
 @snap[west span-80]
+@ul[square-bullets](false)
 - development
 - testing
 - deployment
 - measuring everything
 - grooming and prioritization of backlog
 - maintaining road map
+@ulend
 @snapend
 
 ---
+## Process
 @title[Process]
 
 @snap[west span-80]
+@ul[square-bullets](false)
 - what ever the team decides
 - regular prioritization with stakeholders
 - continuous integration facilitates testing
 - continuous/automated deployment facilitates delivery
 - iterations can be useful
+@ulend
 @snapend
 
 ---
-@title[Owning the Product]
+## Owning the Product
 
 @snap[west span-80]
+@ul[square-bullets](false)
 - well defined product
 - clear mission statement
 - focused on goals
 - constant communication with customers
 - measures product behavior 
 - reacts to feedback from measurements and customer feedback
+@ulend
 @snapend
 
