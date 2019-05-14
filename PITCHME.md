@@ -27,7 +27,7 @@
 @snapend
 
 ---
-## Team Composition
+## Team Capabilities
 @title[Team Capabilities]
 
 @snap[west span-80]
