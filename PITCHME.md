@@ -6,7 +6,7 @@
 ## Team Qualities
 @title[Team Qualities]
 
-@snap[west span-80]
+@snap[west span-70]
 @ul[spaced]
 - rapid delivery of value to customers
 - focus on quality
@@ -16,11 +16,14 @@
 @ulend
 @snapend
 
+@snap[east span-30]
+![stickynotes](doc/assets/stickynotes.jpg)
+@snapend
 ---
 ## Team Composition
 @title[Team Composition]
 
-@snap[west span-80]
+@snap[west span-70]
 @ul[spaced square-bullets]
 - development team
 - business person
@@ -35,7 +38,7 @@
 ## Team Capabilities
 @title[Team Capabilities]
 
-@snap[west span-80]
+@snap[west span-70]
 @ul[spaced square-bullets]
 - development
 - testing
@@ -46,11 +49,15 @@
 @ulend
 @snapend
 
+@snap[east span-30]
+![stickynotes](doc/assets/stickynotes.jpg)
+@snapend
+
 ---
 ## Process
 @title[Process]
 
-@snap[west span-80]
+@snap[west span-70]
 @ul[spaced square-bullets]
 - what ever the team decides
 - regular prioritization with stakeholders
@@ -60,10 +67,14 @@
 @ulend
 @snapend
 
+@snap[east span-30]
+![stickynotes](doc/assets/stickynotes.jpg)
+@snapend
+
 ---
 ## Owning the Product
 
-@snap[west span-80]
+@snap[west span-70]
 @ul[spaced square-bullets]
 - well defined product
 - clear mission statement
@@ -74,3 +85,6 @@
 @ulend
 @snapend
 
+@snap[east span-30]
+![stickynotes](doc/assets/stickynotes.jpg)
+@snapend
