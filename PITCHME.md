@@ -2,7 +2,7 @@
 # An Anatomy of an Agile Team
 
 
----
+---?color=linear-gradient(100deg, #007EA0 10%, #007696 10%)
 ## Team Qualities
 @title[Team Qualities]
 
@@ -17,7 +17,7 @@
 @snapend
 
 @snap[east span-30]
-![stickynotes](doc/assets/stickynotes.jpg)
+![stickynotes1](doc/assets/stickynotes.jpg)
 @snapend
 ---
 ## Team Composition
@@ -31,7 +31,7 @@
 @snapend
 
 @snap[east span-30]
-![stickynotes](doc/assets/stickynotes.jpg)
+![stickynotes2](doc/assets/stickynotes.jpg)
 @snapend
 
 ---
@@ -50,7 +50,7 @@
 @snapend
 
 @snap[east span-30]
-![stickynotes](doc/assets/stickynotes.jpg)
+![stickynotes3](doc/assets/stickynotes.jpg)
 @snapend
 
 ---
