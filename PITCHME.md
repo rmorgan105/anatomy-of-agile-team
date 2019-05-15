@@ -16,7 +16,7 @@
 @ulend
 @snapend
 
----
+---?color=linear-gradient(to left, #007EC0, #0076A6)
 ## Team Composition
 @title[Team Composition]
 
