@@ -1,3 +1,4 @@
+---?image=doc/assets/StickyNotes-background.jpg
 # An Anatomy of an Agile Team
 
 
@@ -20,10 +21,14 @@
 @title[Team Composition]
 
 @snap[west span-80]
-@ul[square-bullets]
+@ul[spaced square-bullets]
 - development team
 - business person
 @ulend
+@snapend
+
+@snap[east span-30]
+![stickynotes](doc/assets/stickynotes.jpg)
 @snapend
 
 ---
@@ -31,7 +36,7 @@
 @title[Team Capabilities]
 
 @snap[west span-80]
-@ul[square-bullets]
+@ul[spaced square-bullets]
 - development
 - testing
 - deployment
@@ -46,7 +51,7 @@
 @title[Process]
 
 @snap[west span-80]
-@ul[square-bullets](false)
+@ul[spaced square-bullets]
 - what ever the team decides
 - regular prioritization with stakeholders
 - continuous integration facilitates testing
@@ -59,7 +64,7 @@
 ## Owning the Product
 
 @snap[west span-80]
-@ul[square-bullets](false)
+@ul[spaced square-bullets]
 - well defined product
 - clear mission statement
 - focused on goals
