@@ -2,12 +2,12 @@
 # An Anatomy of an Agile Team
 
 
----?color=linear-gradient(100deg, #007EA0 10%, #007696 10%)
+---?color=linear-gradient(100deg, #007EC0, #0076A6)
 ## Team Qualities
 @title[Team Qualities]
 
-@snap[west span-70]
-@ul[spaced]
+@snap[west span-80]
+@ul[spaced](false)
 - rapid delivery of value to customers
 - focus on quality
 - high level of collaboration and communication
@@ -16,9 +16,6 @@
 @ulend
 @snapend
 
-@snap[east span-30]
-![stickynotes1](doc/assets/stickynotes.jpg)
-@snapend
 ---
 ## Team Composition
 @title[Team Composition]
